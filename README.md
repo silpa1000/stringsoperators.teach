@@ -1,0 +1,1 @@
+# stringsoperators.teach
